@@ -22,10 +22,10 @@
             {{ range $index,$post := $posts }}                
                 <li class="item{{ range .Params.tags }} tag_{{ . }}{{ end }}">
                         {{- if (resources.GetMatch .Params.image) -}}
-                            {{- $postimage := ((resources.GetMatch .Params.image).Fill `1200x600 jpg Smart q50`).RelPermalink -}}
+                            {{- $postimage := ((resources.GetMatch .Params.image).Fill `1200x600 jpg Center q50`).RelPermalink -}}
                             {{- if $postimage -}}<div class="img" onclick="document.location.href='{{ .RelPermalink }}';" style="cursor: pointer;"><img data-src="{{ $postimage }}" alt="{{ .Title }}" style="cursor: pointer;" onclick="document.location.href='{{ .RelPermalink }}';" /></div>{{- end -}}
                         {{- end -}}
-                        <h3>{{ .Title | safeHTML }}</h3>
+                        <h3><p><a href="{{ .RelPermalink }}" class="button">{{ .Title | safeHTML }}</a></p></h3>
                         {{ if .Params.date }}<div class="meta">
                             <div>
                                 <img src="/img/icons/material-symbols/200/rounded/calendar_month-fill.svg"class="black_2_textDark" alt="" />

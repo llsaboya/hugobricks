@@ -1,0 +1,23 @@
+logo_image:
+logo_subtitle: Design & Performance
+mobile_view_width: 1000
+menuitems:
+  - title: Sobre
+    link: /about/
+    items: 
+      - title:
+        link:
+  - title: Preços
+    link: /prices/
+  - title: Docs
+    link: /docs/
+  - title: Portfolio
+    link: /products/
+  - title: Blog
+    link: /blog/
+  - title: Contato
+    link: /contact/
+cta:
+  active: true
+  title: O que é HTP?
+  link: /posts/tecnologia-de-desempenho-humano/

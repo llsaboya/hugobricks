@@ -2,13 +2,13 @@
     {{- range (index page.Site.Data page.Site.Language.Lang).people -}}
         <li>
             <div class="box">
-            <img src="{{ .image }}" alt="{{ .name }}" class="avatar colorize_image" />
+            <div class="img" onclick="document.location.href='{{ .website }}';" style="cursor: pointer;"><img src="{{ .image }}" alt="{{ .name }}" style="cursor: pointer;" onclick="document.location.href='\/posts\/livro-atendimento-banc%C3%A1rio\/';" /></div>
             <h3>{{- .name -}}</h3>
             <div class="function">{{- .function | safeHTML -}}</div>
             <p>{{- .description | safeHTML -}}</p>
-            <ul class="buttons">
+            <ul class="buttons"> 
                 {{- if .phone -}}
-                    <li><a href="tel:{{ replace .phone ` ` `` }}" class="button icon"><img src="/img/phone.svg" alt="{{ .phone }}" /></a></li>
+                    <li><a href="https://wa.me/{{ replace .phone_code ` ` `` }}" class="button icon"><img src="/img/whatsapp.svg" alt="{{ .phone }}" /></a></li>
                 {{- end -}}
                 {{- if .email -}}
                     <li><a href="mailto:{{ .email }}" class="button icon"><img src="/img/email.svg" alt="{{ .email }}" /></a></li>
@@ -17,7 +17,8 @@
                     <li><a href="{{ .linkedin }}" class="button icon" target="_blank"><img src="/img/linkedin.svg" alt="{{ .linkedin }}" /></a></li>
                 {{- end -}}
                 {{- if .website -}}
-                    <li><a href="{{ .website }}" class="button icon" target="_blank"><img src="/img/world.svg" alt="{{ .website }}" /></a></li>
+                    <li><p><a href="{{ .website }}" class="button">Saiba Mais</a></p>
+                    </li> 
                 {{- end -}}
             </ul>
             </div>

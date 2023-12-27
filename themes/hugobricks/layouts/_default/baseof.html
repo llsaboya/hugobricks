@@ -1,17 +1,37 @@
 <!DOCTYPE html>
 <html lang="{{ .Language.Lang }}">
   <head>
-    <title>{{ if .Params.seo.title }}{{ .Params.seo.title }}{{ else }}{{ .Title }} | {{ (index .Site.Data .Language.Lang).general.title }} {{ (index .Site.Data .Language.Lang).header.logo_subtitle }}{{ end }}</title>
+    <!-- opengraph -->
+    {{ partial "basic-seo.html" . }}
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ if .Params.seo.description }}{{ .Params.seo.description }}{{ else }}{{ .Summary }}{{ end }}">
-
+    
     <link rel="canonical" href="{{ .Permalink }}" />
     <link rel="shortcut icon" href="{{ .Site.Data.settings.favicon_image }}">
     
     <link href="/css/style.css?version={{ now }}" rel="stylesheet">
+    <!-- MailerLite Universal -->
+    <script>
+      (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+     n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+      (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+      ml('account', '715043');
+    </script>
+<!-- End MailerLite Universal -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MWTWL4S');</script>
+<!-- End Google Tag Manager -->
+
   </head>
   <body id="top" class="{{ if in (substr .Content  0 100) `transparent_header` }}transparent_header{{ end }} filename_{{ with .File }}{{ .BaseFileName }}{{ end }}">
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWTWL4S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <script>      
       function updateSize() {
         if(window.innerWidth<{{ (index .Site.Data .Language.Lang).header.mobile_view_width }}) document.body.classList.add('mobilemenu');
@@ -26,7 +46,7 @@
       <div class="container">
         <div class="icons">
           {{- if (index .Site.Data .Language.Lang).general.contact.phone -}}
-            <a href="tel:{{ replace (index .Site.Data .Language.Lang).general.contact.phone ` ` `` }}" class="icon"><img src="/img/phone.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.phone }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.phone }}</a>
+            <a href="https://wa.me/{{ replace (index .Site.Data .Language.Lang).general.contact.phone_code ` ` `` }}" class="icon"><img src="/img/whatsapp.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.phone }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.phone }}</a>
           {{- end -}}
           {{- if (index .Site.Data .Language.Lang).general.contact.email -}}
             <a href="mailto:{{ (index .Site.Data .Language.Lang).general.contact.email }}" class="icon"><img src="/img/email.svg" alt="{{ (index .Site.Data .Language.Lang).general.contact.email }}" class="black_2_textMedium" /> {{ (index .Site.Data .Language.Lang).general.contact.email }}</a>
@@ -110,6 +130,7 @@
       <link rel="stylesheet" href="/css/intersectionobserver.css">
     {{ end }}
       </div>
+      <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7da65a2c389e4654a5d09d3b7d44e801"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>
 

@@ -10,11 +10,13 @@
 {{- $image := index (findRE `(?s)<p><img.*?p>` $inner 1) 0 -}}
 {{- $inner = replace $inner $image "" 1 -}}
 {{- $imagesrc := index (split $image `"`) 1 -}}
-<section class="intro bgimage hasbackgroundcolor">
-    <div class="bgimage" style="background: url('{{ $imagesrc }}') center center / cover no-repeat;">
-        <div class="overlay"></div>
-        <div class="container small">
-            {{ $inner | safeHTML }}
+<section class="intro image">
+    <div class="container twocols">
+        <div class="text">
+            <div>{{ $inner | safeHTML }}</div>
+        </div>
+        <div class="image">
+            <div>{{- $image | safeHTML -}}</div>
         </div>
     </div>
 </section>

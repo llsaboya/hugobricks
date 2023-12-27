@@ -1,0 +1,40 @@
+- name: Projeto PokéPais
+  function: Unindo Famílias Através do Jogo de Cartas Pokémon
+  image: /portfolio/capa-pokepais.png
+  description: O D4T fornece uma coleção selecionada de informações e recursos para educadores e designers instrucionais.
+  email:
+  phone:
+  linkedin:
+  website: /products/pokepais-pokemon/
+- name: D4T - Design for Thinking
+  function: Digital Garden de Design Instrucional
+  image: /portfolio/capa-d4t.png
+  description: O D4T fornece uma coleção selecionada de informações e recursos para educadores e designers instrucionais.
+  email:
+  phone:
+  linkedin:
+  website: /products/d4t-digital-garden-de-design-instrucional/
+- name: Liderança e Delegação
+  function: Experiência de eLearning Baseada em Cenários.
+  image: /portfolio/capa-lideranca.png
+  description: A experiência de eLearning baseada em cenários é um projeto que desenvolvido para praticar a habilidade de delegação.
+  email:
+  phone:
+  linkedin:
+  website: /products/livro-atendimento-bancario/
+- name: Livro - Modelo de Análise e Diagnóstico de Empresa
+  function: Framework para sua empresa para atingir melhorias reais.
+  image: /portfolio/capa-made.png
+  description: Já vi profissionais mudarem sozinhos, e para a melhor, a gestão de setores e de empresas com essa ferramenta.
+  email:
+  phone:
+  linkedin:
+  website: /products/modelo-de-analise-diagnostico-de-empresa/
+- name: Livro - Atendimento Bancário
+  function: Como atender e vender em qualquer Instituição Financeira.
+  image: /portfolio/capa-atendimento.png
+  description: É um guia completo para quem trabalha em IF, especialmente para aqueles que querem aprimorar suas habilidades em atendimento ao cliente e em vender (bem e com ética) produtos e serviços financeiros.
+  email:
+  phone:
+  linkedin:
+  website: /products/livro-atendimento-bancario/

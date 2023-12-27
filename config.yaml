@@ -1,21 +1,34 @@
-baseURL: https://www.hugobricks.preview.usecue.com
-theme: hugobricks
-defaultContentLanguage: en
+baseURL: https://www.llsaboya.com
+theme: ["hugo-notice", "hugobricks"]
+defaultContentLanguage: pt
 assetDir: static
 
+metadata:
+  keywords: 
+    - Lefebvre Saboya
+    - D4T
+    - LL Saboya
+    - Design Instrucional
+  description: "Lefebvre, o Designer Instrucional Mais Odiado do 🇧🇷️"
+  author: Lefebvre Saboya
+  image: "/uploads/landing/hated-square.png" # this image will be used as fallback if a page has no image of its own
+
+# Needed for mermaid/katex shortcodes
 markup:
   goldmark:
     renderer:
       unsafe: true # Allow HTML in md files
+  tableOfContents:
+    startLevel: 1
 
 languages:
   en:
     languageName: English
     contentDir: content/en
+    weight: 2
+    disabled: false
+  pt:
+    languageName: Português
+    contentDir: content/pt
     weight: 1
     disabled: false
-  nl:
-    languageName: Nederlands
-    contentDir: content/nl
-    weight: 2
-    disabled: true

@@ -1,0 +1,27 @@
+action: /form.php
+placeholders: false
+fields: 
+- name: title
+  input_type: html
+  placeholder: <h3>Vamos Falar de Negócios?</h3>
+  required: true
+- name: name
+  input_type: text
+  placeholder: Nome
+  required: true
+- name: email
+  input_type: email
+  placeholder: Email
+  required: true
+- name: message
+  input_type: textarea
+  placeholder: Mensagem
+  required: false
+- name: terms
+  input_type: checkbox
+  placeholder: Eu aceito os termos e condições
+  required: true
+- name: submit
+  input_type: submit
+  placeholder: Enviar
+  required: true

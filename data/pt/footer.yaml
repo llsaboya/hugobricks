@@ -1,0 +1,24 @@
+logo_image: 
+dark_footer: true
+menuitems:
+  - title: Sobre
+    link:  /about/
+  - title: Termos e Privacidade
+    link:  /privacy-policy/
+socials:
+  - title: LinkedIn
+    link: https://www.linkedin.com/in/llsaboya/
+    logo_image: /img/linkedin.svg
+  - title: Twitter
+    link: https://twitter.com/llsaboya
+    logo_image: /img/twitter.svg
+  - title: YouTube
+    link: https://www.youtube.com/@llsaboya
+    logo_image: /img/youtube_button.svg      
+  - title: WhatsApp
+    link: https://wa.me/555135579245
+    logo_image: /img/whatsapp.svg      
+  - title: E-Mail
+    link: mailto:lefebvre@llsaboya.com
+    logo_image: /img/email.svg
+footer_text: Todos os direitos reservados. Feito no [Hugobricks](https://github.com/jhvanderschee/hugobricks)!
