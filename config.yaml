@@ -26,7 +26,7 @@ languages:
     languageName: English
     contentDir: content/en
     weight: 2
-    disabled: false
+    disabled: true
   pt:
     languageName: Português
     contentDir: content/pt
