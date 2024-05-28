@@ -1,4 +1,4 @@
-baseURL: https://www.llsaboya.com
+baseURL: https://llsaboya.com
 theme: ["hugo-notice", "hugobricks"]
 defaultContentLanguage: pt
 assetDir: static
