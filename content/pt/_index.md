@@ -31,7 +31,7 @@ Sou exigente com meu trabalho. Para muitas organizações, o treinamento é item
 
 {{< button2 "Sobre Lefebvre" "/about/" >}}
 
-![](/uploads/landing/vertical-3.png)
+![](/uploads/landing/vertical-2.png)
 
 {{< /brick_cta >}}
 
