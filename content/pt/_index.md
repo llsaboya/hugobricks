@@ -5,7 +5,7 @@ tags:
     - teste--tag
 image: /uploads/branding/logo-2-s.png
 keywords:
-    - keyword-test
+    - Lefebvre
 ---
 {{< brick_intro2 >}}
 
@@ -23,118 +23,17 @@ A maioria dos designers instrucionais são como esteiras; correm muito, mas não
 
 {{< brick_cta >}}
 
-## O DI Mais Odiado do 🇧🇷️
+## O DI Mais Inovador do 🇧🇷️
 
-Eu não adoço minhas avaliações. A verdade é que muitos em Treinamento e Desenvolvimento acabaram aqui por acaso, não por escolha. Tinham planos mais grandiosos do que estar em treinamento, mas, ainda assim, aqui estão. Por quê? Isso é algo para se pensar.
+A verdade é que existem pessoas em Treinamento e Desenvolvimento acabaram aqui por acaso, não por escolha. Tinham planos mais grandiosos, mas, por alguma razão, aqui estão. Por quê? Isso é algo para se pensar.
 
-Sou exigente com quem trabalho. Para muitas organizações, o treinamento é item de luxo – bom de ter, mas não essencial para suas operações. Eles são indiferentes ao método, apenas fixados em atingir metas. **Mas eu me importo**. Me importo muito com o "Como". Entender o processo é crucial, pois conhecer o "Como" nos permite replicar o sucesso e alcançar resultados consistentes. E isso, meus amigos, exige esforço e comprometimento genuínos.
+Sou exigente com meu trabalho. Para muitas organizações, o treinamento é item de luxo – bom de ter, mas não essencial para suas operações. Eles são indiferentes ao método, apenas fixados em atingir metas. **Mas eu me importo**. Me importo muito com o "Como". Entender o processo é crucial, pois conhecer o "Como" nos permite replicar o sucesso e alcançar resultados consistentes. E isso, meus amigos, exige esforço e comprometimento genuínos.
 
 {{< button2 "Sobre Lefebvre" "/about/" >}}
 
 ![](/uploads/landing/vertical-3.png)
 
 {{< /brick_cta >}}
-
-{{< brick_prices >}}
-
-## O que Eu Faço
-
-### Pode-se alcançar muito mais se fizer MENOS, mas faça MELHOR e com INTELIGÊNCIA.
-
----
-
-**iniciante**
-### E-learning
-
-Treinamentos sob demanda sobre HPT e D4T em design instrucional.
-
-### _R$_**29,90**/mês
-
-- Acesso a uma biblioteca de recursos
-- Novos módulos adicionados mensalmente
-- Suporte por e-mail
-
-[Acesse](https://lms.llsaboya.com/)
-
----
-
-**elite**
-
-### Consultas de 60 Minutos
-
-Você escolhe o tópico, nós o enfrentamos juntos por uma hora inteira combinando o HPT com a precisão do Design Instrucional.
-
-### _R$_**1.500**_,00_/pack
-
-- *Upselling*: somente para quem já é cliente
-- 3 sessões ao vivo, individuais e personalizadas
-- Avaliação criteriosa do seu trabalho atual, com insights para refinamento e melhoria
-- Planejamento para desenvolvimento de soluções
-- Em até 4x para pessoas físicas*
-
-[Fale comigo](/prices/consultoria-direcionada-em-hpt-design-instrucional/)
-
----
-
-**empresas**
-
-### In-Company
-
-Transforme sua equipe de meros apresentadores de informação em designers instrucionais impactantes.
-
-### _R$_**escopo**/projeto
-
-- Preços personalizados com base no escopo do projeto
-- Análise abrangente de necessidades
-- Estratégia personalizada e desenvolvimento de conteúdo
-- Suporte à implementação
-
-[Em Breve](/contact/)
-
-
-{{< /brick_prices >}}
-
-{{< brick_image2 >}}
-
-## ESCAPE DE CURSOS CHATOS
-
-![](/uploads/landing/3.png)
-
-Cansado de treinamentos ineficazes?
-Seu trabalho é criar experiências de aprendizagem cativantes para melhorar o resultado profissional, não apenas para preencher o tempo. Vou treinar você a:
-
-- Dominar a conversa de design instrucional corporativo.
-- Criar experiências de aprendizagem que ressoam e envolvem.
-- Transformar seu público em participantes ativos, não ouvintes passivos.
-
-{{< /brick_image2 >}}
-{{< brick_image >}}
-
-## ENSINE MAIS COM MENOS CONTEÚDO
-
-![](/uploads/landing/2.png)
-
-Desanimado com resultados de aprendizagem ruins?
-Seu impacto está diretamente relacionado à eficácia do seu design. Mude isso por:
-- Dominar a arte da eliminação de conteúdo.
-- Peneirar a palha para encontrar o ouro.
-- Abraçar o poder do 'Não' estratégico na criação de conteúdo.
-
-{{< /brick_image >}}
-{{< brick_image2 >}}
-
-## PARE DE SER UMA FÁBRICA DE CONTEÚDO!
-
-![](/uploads/landing/4.png)
-
-Frustrado por ser apenas um criador de conteúdo?
-Imagine se você projetasse cursos não porque tinha que fazer, mas porque amava fazê-los. Você ainda toleraria designs de aprendizagem ineficazes?
-Mostro como parar isso e ainda criar aprendizados impactantes por:
-- Recusar-se a dar sua expertise de graça.
-- Manter total controle sobre a experiência de aprendizagem.
-- Aprenda a projetar, não para aplausos, mas para impacto transformacional.
-
-{{< /brick_image2 >}}
 
 {{< brick_features >}}
 ## Esculpindo Excelência: A Essência do Design 4 Thinking
@@ -191,6 +90,7 @@ Adotando as mais recentes tecnologias educacionais, de análises aprimoradas por
 O Breves Notas é um blog organizado de modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora eu achei ser uma boa idéia.
 
 {{< /brick_posts >}}
+
 
 {{< brick_cta >}}{{< /brick_cta >}}
 
