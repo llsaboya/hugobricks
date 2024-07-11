@@ -1,7 +1,7 @@
 ---
 title: features
 ---
-## Esculpindo Excelência: A Essência do Design 4 Thinking
+## Design para pensar: O D4T
 
 No cerne do D4T, há um compromisso comparável à dedicação de um artesão ao seu ofício. Vamos além de simples maquiagem no treinamento: buscamos experiências transformadoras que proporcionam resultados profissionais sólidos, não métricas vazias. Cada estratégia e módulo ésão elaborados para superar o usual e impulsionar a verdadeira melhoria do desempenho. Estes são os pilares do D4T:
 

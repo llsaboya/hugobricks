@@ -25,9 +25,11 @@ A maioria dos designers instrucionais são como esteiras; correm muito, mas não
 
 ## O DI Mais Inovador do 🇧🇷️
 
-A verdade é que existem pessoas em Treinamento e Desenvolvimento acabaram aqui por acaso, não por escolha. Tinham planos mais grandiosos, mas, por alguma razão, aqui estão. Por quê? Isso é algo para se pensar.
+A verdade é que muitos profissionais de Treinamento e Desenvolvimento acabam nessa área por acaso, não por uma escolha deliberada. Por quê? Essa é uma questão interessante para se refletir.
 
-Sou exigente com meu trabalho. Para muitas organizações, o treinamento é item de luxo – bom de ter, mas não essencial para suas operações. Eles são indiferentes ao método, apenas fixados em atingir metas. **Mas eu me importo**. Me importo muito com o "Como". Entender o processo é crucial, pois conhecer o "Como" nos permite replicar o sucesso e alcançar resultados consistentes. E isso, meus amigos, exige esforço e comprometimento genuínos.
+Eu, por outro lado, sou exigente com meu trabalho. Para muitas organizações, o treinamento é visto como um item de luxo - bom de ter, mas não essencial para suas operações. Eles estão apenas focados em atingir metas, indiferentes ao método utilizado. Mas eu me importo. Me importo muito com o "Como". Entender o processo é crucial, pois conhecer o "Como" nos permite replicar o sucesso e alcançar resultados consistentes. E isso, meus amigos, exige esforço e comprometimento genuínos.
+
+Minha abordagem profissional utiliza os princípios do design instrucional, lean e melhoria contínua para criar soluções de aprendizagem eficazes e impactantes.
 
 {{< button2 "Sobre Lefebvre" "/about/" >}}
 
@@ -36,50 +38,55 @@ Sou exigente com meu trabalho. Para muitas organizações, o treinamento é item
 {{< /brick_cta >}}
 
 {{< brick_features >}}
-## Esculpindo Excelência: A Essência do Design 4 Thinking
+## Design para pensar: O D4T
 
-No cerne do D4T, há um compromisso comparável à dedicação de um artesão ao seu ofício. Vamos além de simples maquiagem no treinamento: buscamos experiências transformadoras que proporcionam resultados profissionais sólidos, não métricas vazias. Cada estratégia e módulo ésão elaborados para superar o usual e impulsionar a verdadeira melhoria do desempenho. Estes são os pilares do D4T:
+Então, designers instrucionais, é hora de deixar para trás aqueles velhos treinamentos enfadonhos e abraçar a abordagem inovadora. Transforme seus programas em verdadeiras academias para o cérebro, onde os participantes possam refletir, resolver problemas e tomar decisões como profissionais de destaque. Prepare-se para ver o impacto real de suas iniciativas de aprendizagem!
+
+{{< button "Aprenda mais sobre o D4T" "/docs/" >}}
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/pivot_table_chart.svg)
 ### Navegando pelas complexidades da aprendizagem de adultos
 
-No D4T, projetamos módulos de aprendizagem profissional que acertam em cheio, entregando exatamente o que você precisa, quando precisa. É sobre desenvolver habilidades. apoiando o T&D no momento certo e a aplicação real do conhecimento.
+Projetar módulos de aprendizagem profissional que "acertam em cheio" é um desafio, mas essencial para desenvolver habilidades e apoiar o T&D no momento certo. A ideia de aplicação real do conhecimento é crucial para o impacto.
+
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
 ### Domínio do Framework D4T
 
-Utilizando os princípios do lean-Instructional Systems Design, a abordagem D4T elimina desperdícios no processo de aprendizagem, concentrando-se no essencial para otimizar o desenvolvimento e entregar experiências educacionais eficientes e impactantes.
+Eliminar desperdícios e se concentrar no essencial para otimizar o desenvolvimento e entregar experiências educacionais eficientes e impactantes é uma abordagem lean e inteligente. Usar os princípios do lean-Instructional Systems Design é uma ótima maneira de alcançar isso.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 ### Foco na Melhoria de Desempenho
 
-Um compromisso de não apenas transmitir conhecimento, mas de melhorar o desempenho. Cada conteúdo é elaborado para suportar a aplicação no mundo real, impulsionando melhorias mensuráveis no desempenho no trabalho e nos resultados organizacionais.
+Não apenas transmitir conhecimento, mas melhorar o desempenho de forma mensurável é um objetivo nobre. Elaborar conteúdo para apoiar a aplicação no mundo real e impulsionar melhorias no desempenho e resultados organizacionais é o que faz a diferença.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/stylus_laser_pointer.svg)
 ### Personalização Impulsionada pelos Seus Especialistas
 
-Usando uma abordagem baseada em dados, o D4T é adaptado às necessidades únicas e aos padrões de aprendizagem do público, garantindo uma taxa de retenção mais alta e uma transferência de conhecimento mais eficaz para ambientes práticos.
+Usar uma abordagem baseada em dados para se adaptar às necessidades únicas e padrões de aprendizagem do público é essencial para uma taxa de retenção mais alta e transferência de conhecimento eficaz. Dados e especialistas são a chave.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/component_exchange.svg)
-### Coaching e Mentoria Inovadores
+### Inovação no Design
 
-Além da criação de conteúdo, D4T oferece um programa de mentoria que ajuda designers instrucionais e profissionais de T&D a aprimorar seus ofícios, adotar práticas inovadoras e se manter à frente das tendências do setor.
+Oferecer estregégias para designers instrucionais e profissionais de T&D aprimorarem suas habilidades, adotarem práticas inovadoras e ficarem à frente das tendências é um diferencial valioso. Combinar criação de conteúdo com desenvolvimento de profissionais é um ótimo pacote.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/vrpano.svg)
 ### Integração de Novas Tecnologias
 
-Adotando as mais recentes tecnologias educacionais, de análises aprimoradas por IA até cenários ramificados baseados nos seus problemas reais, o D4T está na vanguarda da aprendizagem digital, oferecendo aos clientes as melhores ferramentas para facilitar uma instrução envolvente e eficaz.
+Estar na vanguarda da aprendizagem digital, adotando as mais recentes tecnologias educacionais, de análises aprimoradas por IA a cenários ramificados, oferece aos clientes as melhores ferramentas para facilitar uma instrução envolvente e eficaz. Inovação tecnológica é essencial.
+
+
 
 {{< /brick_features >}}
 
