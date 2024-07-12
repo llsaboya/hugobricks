@@ -97,8 +97,7 @@ Incentivar os alunos a se envolverem ativamente no processo de aprendizagem, por
 
 Monitorar o progresso dos alunos e fornecer feedback construtivo é fundamental para desenvolver suas habilidades e estratégias de aprendizagem.
 
-![Estilos de aprendizagem não existem](/uploads/post/estilos-de-aprendizagem-2.jpeg)
-
+{{< notice tip >}}
 ## Comparação de Meios de Aprendizagem: Tempo e Considerações de Orçamento para Múltiplos Estilos de Aprendizagem
 
 É importante considerar como diferentes meios afetam a transferência de conhecimento e quanto custa. Embora os estilos de aprendizagem não existam, esta análise explora a adaptação fictícia de um livro de 300 páginas que atenderia aprendentes visuais, auditivos e cinestésicos — e as implicações para tempo e orçamento.
@@ -176,6 +175,7 @@ Criar uma solução de aprendizado abrangente para todos os três estilos de apr
 
 
 Atender a todos os estilos de aprendizagem não é uma abordagem prática ou econômica. As organizações devem focar em criar conteúdos envolventes que apelem a vários sentidos sem aderir estritamente aos estilos de aprendizagem desacreditados. Isso otimiza recursos, reduz custos e oferece treinamento eficaz para todos os alunos.
+{{< /notice >}} 
 
 ## Abandonando o Mito: Por que os Estilos de Aprendizagem Não Existem
 
@@ -191,6 +191,22 @@ Portanto, em vez de se prender a um "estilo de aprendizado", concentre-se em des
 
 Ao abandonar a noção de estilos de aprendizagem, podemos criar ambientes de aprendizagem mais eficazes e inclusivos, que permitam que todos os alunos alcancem seu pleno potencial. E lembre-se, a chave para um aprendizado eficaz é a variedade e a prática.
 
+![Estilos de aprendizagem não existem](/uploads/post/estilos-de-aprendizagem-2.jpeg)
+
+## Referências
+
+1. **Coffield, Frank; Moseley, David; Hall, Elaine; Ecclestone, Kathryn** (2004). Learning styles and pedagogy in post-16 learning- A systematic and critical review. — [🔗](https://web.archive.org/web/20160304072804/http://sxills.nl/lerenlerennu/bronnen/Learning%20styles%20by%20Coffield%20e.a..pdf)
+2. **Dunn, R., Beaudry, J. S., & Klavas, A.** (2002). Survey of research on learning styles. California Journal of Science Education II (2). — [🔗](https://digitalcommons.usm.maine.edu/cgi/viewcontent.cgi?article=1137&context=sehd-faculty-publications)
+3. **Fleming, N., & Baume, D.** (2006). Learning Styles Again: VARKing up the right tree!. Educational developments, 7(4), 4. — [🔗](http://www.vark-learn.com/wp-content/uploads/2014/08/Educational-Developments.pdf)
+4. **Furey, W.** (2020). THE STUBBORN MYTH OF LEARNING STYLES. Education Next, 20(3), 8-13. — [🔗](https://go.gale.com/ps/i.do?id=GALE%7CA628405045&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15399664&p=AONE&sw=w&userGroupName=anon%7E16b2ccde)
+5. **Husmann, P. R., & O'Loughlin, V. D.** (2019). Another nail in the coffin for learning styles? Disparities among undergraduate anatomy students’ study strategies, class performance, and reported VARK learning styles. Anatomical sciences education, 12(1), 6-19. — [🔗](https://anatomypubs.onlinelibrary.wiley.com/doi/abs/10.1002/ase.1777)
+6. **Massa, L. J., & Mayer, R. E.** (2006). Testing the ATI hypothesis: Should multimedia instruction accommodate verbalizer-visualizer cognitive style?. Learning and Individual Differences, 16(4), 321-335. — [🔗](https://www.sciencedirect.com/science/article/abs/pii/S1041608006000331)
+7. **Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R.** (2008). Learning styles: Concepts and evidence. Psychological science in the public interest, 9(3), 105-119. — [🔗](https://digitalcommons.usf.edu/psy_facpub/1765/)
+8. **Riener, C., & Willingham, D.** (2010). The myth of learning styles. Change: The magazine of higher learning, 42(5), 32-35. — [🔗](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
+9. **Rogowsky, B. A., Calhoun, B. M., & Tallal, P.** (2015). Matching learning style to instructional method: Effects on comprehension. Journal of educational psychology, 107(1), 64. — [🔗](https://www.kovacs.com/info250readings/Rogowskyetal.pdf)
+10. **Snider, V. E., & Roehl, R.** (2007). Teachers’ beliefs about pedagogy and related issues. Psychology in the Schools, 44, 873–886. — [🔗](https://onlinelibrary.wiley.com/doi/abs/10.1002/pits.20272)
+11. **Sun, X., Norton, O., & Nancekivell, S. E.** (2023). Beware the myth: learning styles affect parents’, children’s, and teachers’ thinking about children’s academic potential. _npj Science of Learning_, _8_(1), 46. [https://www.nature.com/articles/s41539-023-00190-x.pdf](https://www.nature.com/articles/s41539-023-00190-x.pdf)
+12. **Willingham, D. T., Hughes, E. M., & Dobolyi, D. G.** (2015). The scientific status of learning styles theories. Teaching of Psychology, 42(3), 266-271. — [🔗](https://career.ucsf.edu/sites/g/files/tkssra2771/f/Article%20UCSF%20SEJC%20January%202017.pdf)
 
 <script type="application/ld+json">
 {
@@ -227,18 +243,3 @@ Ao abandonar a noção de estilos de aprendizagem, podemos criar ambientes de ap
   }]
 }
 </script>
-
-## Referências
-
-1. **Coffield, Frank; Moseley, David; Hall, Elaine; Ecclestone, Kathryn** (2004). Learning styles and pedagogy in post-16 learning- A systematic and critical review. — [🔗](https://web.archive.org/web/20160304072804/http://sxills.nl/lerenlerennu/bronnen/Learning%20styles%20by%20Coffield%20e.a..pdf)
-2. **Dunn, R., Beaudry, J. S., & Klavas, A.** (2002). Survey of research on learning styles. California Journal of Science Education II (2). — [🔗](https://digitalcommons.usm.maine.edu/cgi/viewcontent.cgi?article=1137&context=sehd-faculty-publications)
-3. **Fleming, N., & Baume, D.** (2006). Learning Styles Again: VARKing up the right tree!. Educational developments, 7(4), 4. — [🔗](http://www.vark-learn.com/wp-content/uploads/2014/08/Educational-Developments.pdf)
-4. **Furey, W.** (2020). THE STUBBORN MYTH OF LEARNING STYLES. Education Next, 20(3), 8-13. — [🔗](https://go.gale.com/ps/i.do?id=GALE%7CA628405045&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15399664&p=AONE&sw=w&userGroupName=anon%7E16b2ccde)
-5. **Husmann, P. R., & O'Loughlin, V. D.** (2019). Another nail in the coffin for learning styles? Disparities among undergraduate anatomy students’ study strategies, class performance, and reported VARK learning styles. Anatomical sciences education, 12(1), 6-19. — [🔗](https://anatomypubs.onlinelibrary.wiley.com/doi/abs/10.1002/ase.1777)
-6. **Massa, L. J., & Mayer, R. E.** (2006). Testing the ATI hypothesis: Should multimedia instruction accommodate verbalizer-visualizer cognitive style?. Learning and Individual Differences, 16(4), 321-335. — [🔗](https://www.sciencedirect.com/science/article/abs/pii/S1041608006000331)
-7. **Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R.** (2008). Learning styles: Concepts and evidence. Psychological science in the public interest, 9(3), 105-119. — [🔗](https://digitalcommons.usf.edu/psy_facpub/1765/)
-8. **Riener, C., & Willingham, D.** (2010). The myth of learning styles. Change: The magazine of higher learning, 42(5), 32-35. — [🔗](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
-9. **Rogowsky, B. A., Calhoun, B. M., & Tallal, P.** (2015). Matching learning style to instructional method: Effects on comprehension. Journal of educational psychology, 107(1), 64. — [🔗](https://www.kovacs.com/info250readings/Rogowskyetal.pdf)
-10. **Snider, V. E., & Roehl, R.** (2007). Teachers’ beliefs about pedagogy and related issues. Psychology in the Schools, 44, 873–886. — [🔗](https://onlinelibrary.wiley.com/doi/abs/10.1002/pits.20272)
-11. **Sun, X., Norton, O., & Nancekivell, S. E.** (2023). Beware the myth: learning styles affect parents’, children’s, and teachers’ thinking about children’s academic potential. _npj Science of Learning_, _8_(1), 46. [https://www.nature.com/articles/s41539-023-00190-x.pdf](https://www.nature.com/articles/s41539-023-00190-x.pdf)
-12. **Willingham, D. T., Hughes, E. M., & Dobolyi, D. G.** (2015). The scientific status of learning styles theories. Teaching of Psychology, 42(3), 266-271. — [🔗](https://career.ucsf.edu/sites/g/files/tkssra2771/f/Article%20UCSF%20SEJC%20January%202017.pdf)
