@@ -4,7 +4,7 @@ description: Hoje vamos falar sobre estilos de aprendizagem e como os designers 
 tags:
   - Design Instrucional
   - Estilos de Aprendizagem
-  - Mitos científicos
+  - Mitos de Aprendizagem
 date: 2024-07-10T18:22:14.479Z
 lastmod: 2023-05-09T21:35:40.126Z
 image: /uploads/post/estilos-de-aprendizagem.jpeg
@@ -18,6 +18,8 @@ Você já fez aquele teste online que promete revelar seu "estilo de aprendizage
 Talvez você tenha até mesmo usado esse rótulo para justificar por que certas abordagens de estudo funcionam melhor para você do que outras. Mas será que essa teoria dos estilos de aprendizagem realmente se sustenta? Ou será que ela não passa de um mito persistente que precisa ser desmascarado? 
 
 Prepare-se para questionar tudo o que você pensava saber sobre como as pessoas aprendem de maneira mais eficaz, pois a verdade é que **estilos de aprendizagem não existem**.
+
+{{< youtube "vr3hL5XjnCA" "Estilos de Aprendizagem.png" >}}
 
 ## Desmascarando o Mito dos Estilos de Aprendizagem
 
