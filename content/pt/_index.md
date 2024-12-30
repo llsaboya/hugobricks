@@ -41,7 +41,7 @@ Um bom treinamento não se trata de ter todas as respostas. É sobre fazer as pe
 
 {{< button2 "Sobre Lefebvre" "/about/" >}}
 
-![](/uploads/landing/user-picture.png)
+![](/uploads/landing/about-vertical.png)
 
 {{< /brick_cta >}}
 
