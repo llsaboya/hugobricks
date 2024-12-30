@@ -3,7 +3,7 @@ placeholders: false
 fields: 
 - name: title
   input_type: html
-  placeholder: <h3>Vamos Falar de Negócios?</h3>
+  placeholder: <h3>Contato</h3>
   required: true
 - name: name
   input_type: text

@@ -1,60 +1,68 @@
 ---
 title: Lefebvre Saboya
-description: O DI Mais Odiado do 🇧🇷️
+description: Desenvolvimento Organizacional | Inovação | Treinamento & Desenvolvimento | Design Instrucional
 tags:
-    - teste--tag
+    - Lefebvre Saboya
 image: /uploads/branding/logo-2-s.png
 keywords:
-    - Lefebvre
+    - Lefebvre Saboya
 ---
 {{< brick_intro2 >}}
 
-# 10 Razões Pelas Quais Seu Treinamento Falha
+# Domine a Arte de Pensar, Não Apenas de Treinar
 
-A maioria dos designers instrucionais são como esteiras; correm muito, mas não saem do lugar. Rompa com esse ciclo com meu novo treinamento em vídeo exclusivo.
+Uma evolução solenciosa acontece no treinamento e desenvolvimento. Não se trata de técnicas chamativas ou soluções rápidas. É sobre entender como as pessoas pensam, aprendem e se desenvolvem.
+Fundamento meu trabalho nas pesquisas de Louis Raths, uso metodologis eficazes para ajudar organizações a desenvolver treinamentos que respeitam tanto os profissionais quanto o processo de aprendizagem.
 
-**Quer perder essa opotunidade?** Tudo bem, o problema é seu mesmo...
+Não apenas criamos cursos. Arquitetamos processos de pensamento. Não apenas entregamos conteúdo. Esculpimos compreensão. Não apenas cumprimos objetivos de aprendizagem. Criamos mudanças duradouras.
 
 <div class="ml-embedded" data-form="Su75oB"></div>
 
-![](/uploads/landing/soon.png)
+![](/uploads/landing/showcase.png)
 
 {{< /brick_intro2 >}}
 
 {{< brick_cta >}}
 
-## O DI Mais Inovador do 🇧🇷️
+## Quem sou eu
 
-A verdade é que muitos profissionais de Treinamento e Desenvolvimento acabam nessa área por acaso, não por uma escolha deliberada. Por quê? Essa é uma questão interessante para se refletir.
+Minha jornada me ensinou que organizações prosperam quando conectam pessoas a propósitos claros. Como especialista em Design Instrucional, integro metodologias consolidadas com tecnologias emergentes para criar experiências de aprendizagem que transformam comportamentos e resultados.
 
-Eu, por outro lado, sou exigente com meu trabalho. Para muitas organizações, o treinamento é visto como um item de luxo - bom de ter, mas não essencial para suas operações. Eles estão apenas focados em atingir metas, indiferentes ao método utilizado. Mas eu me importo. Me importo muito com o "Como". Entender o processo é crucial, pois conhecer o "Como" nos permite replicar o sucesso e alcançar resultados consistentes. E isso, meus amigos, exige esforço e comprometimento genuínos.
+Fundamentado nos princípios de Raths, Mager e Gagné, combino o rigor da análise de negócios com design instrucional. Esta integração permite desenvolver soluções que respeitam tanto os profissionais quanto os objetivos organizacionais, criando ambientes onde desenvolvimento e desempenho acontecem naturalmente.
 
-Minha abordagem profissional utiliza os princípios do design instrucional, lean e melhoria contínua para criar soluções de aprendizagem eficazes e impactantes.
+E se seu treinamento pudesse fazer mais do que transferir conhecimento? E se ele pudesse transformar a forma como as pessoas pensam? Minha abordagem é simples, mas minuciosa:
+
+- Analisar atentamente suas necessidades
+- Desenvolver projetos cuidadosamente para seu contexto de negócios
+- Focar na aplicação prática
+- Medir o que realmente importa
+
+Um bom treinamento não se trata de ter todas as respostas. É sobre fazer as perguntas certas e procurar atentamente por boas soluções.
 
 {{< button2 "Sobre Lefebvre" "/about/" >}}
 
-![](/uploads/landing/vertical-2.png)
+![](/uploads/landing/user-picture.png)
 
 {{< /brick_cta >}}
 
 {{< brick_features >}}
 ## Design para pensar: O D4T
 
-Então, designers instrucionais, é hora de deixar para trás aqueles velhos treinamentos enfadonhos e abraçar a abordagem inovadora. Transforme seus programas em verdadeiras academias para o cérebro, onde os participantes possam refletir, resolver problemas e tomar decisões como profissionais de destaque. Prepare-se para ver o impacto real de suas iniciativas de aprendizagem!
+Quando grandes mentes trabalham juntas, a transformação acontece. Utilizando metodologias comprovadas de Raths, Mager e Gagné, construímos experiências de aprendizagem que permanecem. Nossa abordagem combina design instrucional clássico com ciência cognitiva moderna, criando soluções que funcionam no ambiente empresarial acelerado de hoje.
 
-{{< button "Aprenda mais sobre o D4T" "/docs/" >}}
+{{< button "Aprenda mais sobre o D4T" "https://d4t.dev" >}}
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/pivot_table_chart.svg)
-### Navegando pelas complexidades da aprendizagem de adultos
+### Objetivos claros que geram resultados reais
 
 Projetar módulos de aprendizagem profissional que "acertam em cheio" é um desafio, mas essencial para desenvolver habilidades e apoiar o T&D no momento certo. A ideia de aplicação real do conhecimento é crucial para o impacto.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Domínio do Framework D4T
+### Métodos que respeitam como os adultos realmente aprendem
 
 Eliminar desperdícios e se concentrar no essencial para otimizar o desenvolvimento e entregar experiências educacionais eficientes e impactantes é uma abordagem lean e inteligente. Usar os princípios do lean-Instructional Systems Design é uma ótima maneira de alcançar isso.
 
@@ -68,7 +76,7 @@ Não apenas transmitir conhecimento, mas melhorar o desempenho de forma mensurá
 ---
 
 ![](/img/icons/material-symbols/200/rounded/stylus_laser_pointer.svg)
-### Personalização Impulsionada pelos Seus Especialistas
+### Medir o que realmente importa
 
 Usar uma abordagem baseada em dados para se adaptar às necessidades únicas e padrões de aprendizagem do público é essencial para uma taxa de retenção mais alta e transferência de conhecimento eficaz. Dados e especialistas são a chave.
 
@@ -86,18 +94,4 @@ Oferecer estregégias para designers instrucionais e profissionais de T&D aprimo
 
 Estar na vanguarda da aprendizagem digital, adotando as mais recentes tecnologias educacionais, de análises aprimoradas por IA a cenários ramificados, oferece aos clientes as melhores ferramentas para facilitar uma instrução envolvente e eficaz. Inovação tecnológica é essencial.
 
-
-
 {{< /brick_features >}}
-
-{{< brick_posts >}}
-
-# Blog 
-
-O Breves Notas é um blog organizado de modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora eu achei ser uma boa idéia.
-
-{{< /brick_posts >}}
-
-
-{{< brick_cta >}}{{< /brick_cta >}}
-

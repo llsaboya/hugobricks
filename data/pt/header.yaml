@@ -9,15 +9,11 @@ menuitems:
         link:
   - title: Portfolio
     link: /products/
-  - title: Instrucional D4T
-    link: /docs/
   - title: Perguntas Frequentes
     link: /faq/
-  - title: Blog
-    link: /blog/
   - title: Contato
     link: /contact/
 cta:
   active: true
-  title: O que é HTP?
-  link: /posts/tecnologia-de-desempenho-humano/
+  title: O D4T está aqui
+  link: https://d4t.dev

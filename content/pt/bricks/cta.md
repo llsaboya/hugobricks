@@ -2,11 +2,13 @@
 title: cta
 ---
 
-### Talvez eu seja **a melhor opção** para melhorar radicalmente seu design instrucional. 
+### Vamos explorar juntos como transformar sua estratégia de aprendizagem?
 
-**Sério**. Considere estas estratégias primeiro – são mais fáceis: contratar mais designers, terceirizar seu conteúdo, economizar ainda mais no T&D ou apenas manter o *status quo*. Estas opções são mais simples do que ensinar sua equipe a adotar uma mentalidade para melhorar a performance!
+Antes de iniciarmos uma conversa, considere: talvez você já tenha tentado diferentes caminhos para aprimorar seus treinamentos. Aumentar a equipe de design, terceirizar conteúdo ou até mesmo reduzir investimentos em T&D são abordagens comuns - e podem funcionar em alguns contextos.
 
-Se você já tentou tudo isso e ainda anseia por mudança, então, vamos conversar.
+Mas se você busca uma transformação mais profunda, que vai além de ajustes incrementais, podemos ter uma conversa significativa. Minha abordagem não se limita a criar conteúdo: desenvolvemos juntos uma nova forma de pensar sobre aprendizagem e performance.
+
+Se você está pronto para explorar uma perspectiva diferente sobre design instrucional, vamos conversar.
 
 {{< button2 "Fale comigo" "/about/" >}}
 

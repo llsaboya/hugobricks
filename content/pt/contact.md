@@ -12,11 +12,13 @@ Pensando em treinamento de design instrucional e se perguntando se sou a pessoa 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
-## Vamos Falar de Negócios?
+## Vamos explorar juntos como transformar sua estratégia de aprendizagem?
 
-Meu estilo, métodos e abordagem podem ser tão inovadores, principalmente se você quer acender uma fogueira na chuva. Trabalharmos junto é uma idéia inteligente? Se decidirmos que estamos na mesma página, podemos acertar os detalhes.
+Antes de iniciarmos uma conversa, considere: talvez você já tenha tentado diferentes caminhos para aprimorar seus treinamentos. Aumentar a equipe de design, terceirizar conteúdo ou até mesmo reduzir investimentos em T&D são abordagens comuns - e podem funcionar em alguns contextos.
 
-Ainda prefiro que você ligue, mande um WhatsApp ou escreva uma carta em vez de usar este formulário. Mas a escolha é sua.
+Mas se você busca uma transformação mais profunda, que vai além de ajustes incrementais, podemos ter uma conversa significativa. Minha abordagem não se limita a criar conteúdo: desenvolvemos juntos uma nova forma de pensar sobre aprendizagem e performance.
+
+Se você está pronto para explorar uma perspectiva diferente sobre design instrucional, vamos conversar.
 
 Rua Lopo Gonçalves, 487  
 90040-140 Porto Alegre - RS  
