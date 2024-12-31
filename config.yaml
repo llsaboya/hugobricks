@@ -9,9 +9,9 @@ metadata:
     - D4T
     - LL Saboya
     - Design Instrucional
-  description: "Lefebvre, o Designer Instrucional Mais Odiado do 🇧🇷️"
+  description: "Lefebvre Saboya"
   author: Lefebvre Saboya
-  image: "/uploads/landing/hated-square.png" # this image will be used as fallback if a page has no image of its own
+  image: "/uploads/landing/showcase.png" # this image will be used as fallback if a page has no image of its own
 
 # Needed for mermaid/katex shortcodes
 markup:
