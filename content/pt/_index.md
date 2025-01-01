@@ -16,8 +16,6 @@ Fundamento meu trabalho nas pesquisas de Louis Raths, uso metodologis eficazes p
 
 Não apenas criamos cursos. Arquitetamos processos de pensamento. Não apenas entregamos conteúdo. Esculpimos compreensão. Não apenas cumprimos objetivos de aprendizagem. Criamos mudanças duradouras.
 
-<div class="ml-embedded" data-form="Su75oB"></div>
-
 ![](/uploads/landing/showcase.png)
 
 {{< /brick_intro2 >}}
